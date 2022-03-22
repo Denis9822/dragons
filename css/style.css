@@ -2420,7 +2420,8 @@ div.buy-parent-child .buy-wrapper .buy-inner button.tofu {
         overflow-x: auto;
         overflow-y: hidden;
         padding: 0px 0;
-        margin: 0 auto
+        margin: 0 auto;
+        margin-top: 20px;
     }
     .section-character-classes__content::-webkit-scrollbar {
         display: none;
@@ -4531,6 +4532,9 @@ p {
     }
     .section-character-classes__content .class-item img {
         max-height: 300px;
+    }
+    .section-character-classes__header>div.image img {
+        display: none;
     }
 }
 
