@@ -4661,7 +4661,8 @@ p {
 @media only screen and (max-width:768px) {
     .tokenomics-page .section-header__content {
         width: 100%;
-        height: 297px
+        height: auto;
+        padding: 20px;
     }
 }
 
@@ -4734,7 +4735,7 @@ p {
 
 @media only screen and (max-width:768px) {
     .tokenomics-page .section-token {
-        height: 734px;
+        height: auto;
         margin: 0 11px
     }
 }
