@@ -4530,13 +4530,13 @@ p {
         margin-bottom: 10px
     }
     .section-character-classes__content .class-item img {
-        max-height: 200px;
+        max-height: 300px;
     }
 }
 
 @media only screen and (max-width:400px) {
     .section-about__inner__content .class-item .image {
-        height: 300px;
+        height: 200px;
     }
 }
 
