@@ -4529,6 +4529,9 @@ p {
         height: 201px;
         margin-bottom: 10px
     }
+    .section-character-classes__content .class-item img {
+        max-height: 200px;
+    }
 }
 
 @media only screen and (max-width:400px) {
