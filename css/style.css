@@ -4738,6 +4738,9 @@ p {
         height: auto;
         margin: 0 11px
     }
+    .side-menu .logo img {
+        height: 50px;
+    }
 }
 
 .tokenomics-page .section-token .bg {
