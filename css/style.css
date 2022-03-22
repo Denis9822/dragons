@@ -4533,7 +4533,7 @@ p {
 
 @media only screen and (max-width:400px) {
     .section-about__inner__content .class-item .image {
-        height: 20px;
+        height: 200px;
     }
 }
 
