@@ -837,6 +837,13 @@
         $('.side-menu').click(function() {
             $('#setting').toggle();
         })
+
+        $(window).scroll(function() {
+            $('.buy-parent-child .buy-wrapper').css('display', 'none');
+        })
+        $('.buy-parent-child').click(function() {
+            $('.buy-parent-child .buy-wrapper').toggle();
+        })
     </script>
     <!-- <script src="js/chunk.js"></script>-->
     <script src="js/main.js"></script>

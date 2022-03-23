@@ -4472,7 +4472,7 @@ p {
 
 @media only screen and (max-width:768px) {
     .section-about__inner {
-        padding-bottom: 0
+        padding-bottom: 10px;
     }
 }
 
