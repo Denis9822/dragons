@@ -1120,6 +1120,7 @@ div.buy-parent-child .buy-wrapper .buy-inner button.tofu {
     padding: 8px 24px;
     border-radius: 100px;
     backdrop-filter: blur(30px);
+    -webkit-backdrop-filter: blur(30px);
 }
 
 .section-index_header svg {
